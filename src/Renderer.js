@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import marked from "marked";
 
 const Wrapper = styled.div`
   background: white;
